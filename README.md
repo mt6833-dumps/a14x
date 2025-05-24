@@ -1,0 +1,20 @@
+## a14xmxx-user 14 UP1A.231005.007 A146PXXSBDYC3 release-keys
+- Manufacturer: samsung
+- Platform: mt6833
+- Codename: a14xm
+- Brand: samsung
+- Flavor: a14xmxx-user
+- Release Version: 14
+- Kernel Version: 4.19.191
+- Id: UP1A.231005.007
+- Incremental: A146PXXSBDYC3
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a14xmxx/a14xm:12/SP1A.210812.016/A146PXXSBDYC3:user/release-keys
+- OTA version: 
+- Branch: a14xmxx-user-14-UP1A.231005.007-A146PXXSBDYC3-release-keys
+- Repo: samsung_a14xm_dump
