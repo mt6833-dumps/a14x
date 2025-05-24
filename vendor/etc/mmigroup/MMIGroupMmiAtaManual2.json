@@ -1,0 +1,26 @@
+{
+  "itemConfig": [
+    {
+      "showName": "VersionInfo"
+    },
+    {
+      "showName": "DualBackCamera"
+    },
+    {
+      "showName": "Battery"
+    },
+    {
+      "showName": "Magnetic",
+      "paramconfig": {
+        "support_disk": true,
+        "support_draw": true
+      }
+    },
+    {
+      "showName": "Sar1"
+    },
+    {
+      "showName": "Sar2"
+    }
+  ]
+}

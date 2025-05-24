@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParamUnitDesc version="1.0">
+	<CategoryTypeList>
+		<CategoryType name="Scene" feature_option="VIR_SCENE_CUSTOMIZATION_SUPPORT">
+			<Category name="Default" wording="VoIP"/>
+			<Category name="App1" wording="Application1" visible="false"/>
+			<Category name="App2" wording="Application2" visible="false"/>
+			<Category name="VxWifi_NB"/>
+			<Category name="VxWifi_WB"/>
+			<Category name="VxWifi_SWB"/>
+			<Category name="3GVT"/>
+		</CategoryType>
+		<CategoryType name="Profile" wording="Audio Path">
+			<Category name="HANDSET_PATH" alias="Handset 2mic NR,Handset no 2mic NR,Normal"/>
+			<Category name="HEADSET_PATH" alias="4-pole headset,4_pole_Headset"/>
+			<Category name="HEADSET_3P5PI_PATH" alias="3-pole headset,3_pole_Headset"/>
+			<Category name="SPEAKER_PATH" alias="Hands-free 1mic NR,Hands-free no 1mic NR,Handsfree,MagiConference"/>
+			<Category name="BLUETOOTH_PATH" alias="BT earphone,BT_Earphone"/>
+			<Category name="BT_NSEC_OFF_PATH" alias="BT_NREC_Off"/>
+			<Category name="USB" alias="Usb_Headset"/>
+		</CategoryType>
+	</CategoryTypeList>
+	<ParamUnit>
+		<Param name="DV param" type="short_array"/>
+	</ParamUnit>
+</ParamUnitDesc>
